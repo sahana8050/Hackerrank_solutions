@@ -1,20 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print("first problem")
-s= "hell0_world"
-print(s)
+print("first question")
+string= "hell0_world"
+print(string)
