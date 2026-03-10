@@ -6,3 +6,5 @@ d=a*b
 print(s)
 print(n)
 print(d)
+
+#Arithmetic Function
