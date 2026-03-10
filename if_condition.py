@@ -7,3 +7,4 @@ elif 6<=n<=20:
   print("Weird")
 else:
   print("Not Weird")
+#if_conditions
