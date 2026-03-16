@@ -8,5 +8,7 @@
 4. *divisions
 5. leap_year
 6. without using string pring numbers
+7. list_comprehentions
+   
 
 
