@@ -22,4 +22,14 @@ print(numbers)
 print("using list comprehension:")
 numbers=[num for num  in range(1,11)]
 print(numbers)
-# list comprehensions
+
+print("gretest number in list:")
+numbers=[10,4,5,9,35,78]
+result=[num for num in numbers if num>10]
+print(result)
+
+
+
+
+
+
